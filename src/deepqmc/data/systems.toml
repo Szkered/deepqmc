@@ -47,6 +47,13 @@ charge = 0
 spin = 2
 unit = 'angstrom'
 
+[S]
+coords = [[0.0, 0.0, 0.0]]
+charges = [16]
+charge = 0
+spin = 2
+unit = 'angstrom'
+
 [LiH]
 coords = [[0.0, 0.0, 0.0], [1.595, 0.0, 0.0]]
 charges = [3, 1]
